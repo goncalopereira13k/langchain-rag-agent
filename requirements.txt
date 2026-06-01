@@ -1,0 +1,4 @@
+anthropic
+langchain
+langchain-ollama
+python-dotenv
