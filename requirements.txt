@@ -1,4 +1,9 @@
 anthropic
 langchain
+langchain-community
+langchain-postgres
+langchain-text-splitters
 langchain-ollama
 python-dotenv
+beautifulsoup4
+psycopg[binary]
